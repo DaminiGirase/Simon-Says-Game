@@ -10,7 +10,7 @@ Follow the sequence of colors as it grows — one wrong move, and it’s game ov
 - Visual and audio feedback for each color
 - Responsive design for desktop and mobile
 
-## 🛠 Technologies Used
+##  Technologies Used
 - **HTML5** – Structure of the game
 - **CSS3** – Styling and animations
 - **JavaScript (ES6)** – Game logic and interactivity
